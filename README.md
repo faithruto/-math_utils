@@ -1,3 +1,3 @@
 #mathutilis
 
-python math utilities package.
+python math utilities package!
